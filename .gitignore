@@ -1,0 +1,11 @@
+*.csv
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+noise-project/Lib/
+noise-project/Scripts/
+noise-project/share/
+noise-project/Include/
+noise-project/pyvenv.cfg
